@@ -1,0 +1,4 @@
+discord
+flask
+mendeleev
+python-dotenv
